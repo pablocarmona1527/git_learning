@@ -1,1 +1,1 @@
-Este es mi proceso para aprender a usar Git
+Este es mi proceso para aprender a usar Git, Python y mucho más.
