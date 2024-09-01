@@ -1,3 +1,7 @@
  Este es mi proceso para aprender a usar Git, Python y mucho más.
 
 Espero poder aprender mucho. Por lo cual debo seguir estudiando y aplicar todo.
+
+
+
+Cambios hechos desde mi repositorio local.
